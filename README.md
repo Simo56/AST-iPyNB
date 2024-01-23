@@ -6,7 +6,7 @@ Neural Network based Malware Detection Project
   <br>
   <img width="512" alt="AST-iPyNB logo" src="https://github.com/Simo56/AST-iPyNB/assets/20564263/967fa4ba-d31a-4d33-8e07-2978e184c7ff">
   <br>
-  Malware Detector
+  AST-iPyNB
   <br>
 </h1>
 
