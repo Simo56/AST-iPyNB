@@ -1,5 +1,3 @@
-# AST-iPyNB
-Neural Network based Malware Detection Project
 # Malware Detector using Feedforward Neural Network
 
 <h1 align="center">
