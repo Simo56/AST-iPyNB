@@ -25,4 +25,4 @@ This repository contains code for a malware detector using a feedforward neural 
 
 ## Acknowledgements
 
-- Tereza, Adeosun and Dominik for the help and effort we put in this project.
+- Tereza, Adeosun and Dominik for the help and effort we put in this project. Thanks!
