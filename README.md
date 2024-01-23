@@ -22,3 +22,7 @@ This repository contains code for a malware detector using a feedforward neural 
 ## Technologies
 
 - **Python**: The project is implemented in Python, leveraging scikit-learn for machine learning tasks.
+
+## Acknowledgements
+
+- Tereza, Adeosun and Dominik for the help and effort we put in this project.
